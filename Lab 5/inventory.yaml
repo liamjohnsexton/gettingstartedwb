@@ -5,8 +5,8 @@ groups:
     config:
       transport: winrm
       winrm:
-        user: Administrator
-        password: Puppetlabs!
+        user: puppetinstructor
+        password: @Pupp3t1abs
         ssl: false
   - name: linux
     targets:
